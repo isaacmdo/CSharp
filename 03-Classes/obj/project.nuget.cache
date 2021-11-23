@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEmsiqANdGtlU8gwm7Rk6yf9PyCA+vgueADPWxZ7z+CQNajeKeOpd/FAY9TGlZBS252BPsMe9Wn7+EBXmw9u6g==",
+  "success": true,
+  "projectFilePath": "/Users/isaacmoura/Documents/Github/CSharp/03-Classes/Classes.csproj",
+  "expectedPackageFiles": [
+    "/Users/isaacmoura/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/Users/isaacmoura/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.0.3/microsoft.netcore.app.host.osx-x64.3.0.3.nupkg.sha512",
+    "/Users/isaacmoura/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

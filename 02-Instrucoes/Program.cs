@@ -10,6 +10,7 @@ namespace Instrucoes
             int b = 2, c = 3;
             const int d = 4;
             a = 1;
+
             Console.WriteLine(a + b + c + d);
         }
 

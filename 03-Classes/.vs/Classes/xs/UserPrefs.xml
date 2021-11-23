@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{AC42433B-4FC8-403B-837D-26020D511CEE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="01-Herança/Ponto.cs" Line="23" Column="2" />
+      <File FileName="Program.cs" Line="14" Column="32" />
+      <File FileName="01-Herança/Ponto3D.cs" Line="10" Column="12" />
+      <File FileName="02-Metodos/01-Ref.cs" Line="1" Column="1" />
+      <File FileName="02-Metodos/02-Out.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Classes" expanded="True" selected="True">
+            <Node name="Classes" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="01-Herança" expanded="True" />
+              <Node name="02-Metodos" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRkeGma/h8X6XbVKAinLQAmebVyxIAI7l7QHfvt2D1jUAhdylFwywVKtdL34RFW5+o8zE18ddfONoTfoF++Rgw==",
+  "success": true,
+  "projectFilePath": "/Users/isaacmoura/Documents/Github/CSharp/Revisao/Revisao.csproj",
+  "expectedPackageFiles": [
+    "/Users/isaacmoura/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.21/microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
