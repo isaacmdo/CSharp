@@ -1,0 +1,15 @@
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/bin/Debug/net5.0/ExemploPOO.deps.json
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/bin/Debug/net5.0/ExemploPOO.runtimeconfig.json
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/bin/Debug/net5.0/ExemploPOO.runtimeconfig.dev.json
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/bin/Debug/net5.0/ExemploPOO.dll
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/bin/Debug/net5.0/ref/ExemploPOO.dll
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/bin/Debug/net5.0/ExemploPOO.pdb
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ExemploPOO.csproj.AssemblyReference.cache
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ExemploPOO.AssemblyInfoInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ExemploPOO.AssemblyInfo.cs
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ExemploPOO.dll
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ref/ExemploPOO.dll
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ExemploPOO.pdb
+/Users/isaacmoura/Documents/Github/CSharp/poo/ExemploPOO/obj/Debug/net5.0/ExemploPOO.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/bin/Debug/net5.0/Calculator.dll
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/bin/Debug/net5.0/Calculator.pdb
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/Calculator.dll
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/Calculator.pdb
+/Users/isaacmoura/Documents/Github/CSharp/calculator/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache
