@@ -1,0 +1,15 @@
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/bin/Debug/net5.0/TextEditor.deps.json
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/bin/Debug/net5.0/TextEditor.runtimeconfig.json
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/bin/Debug/net5.0/TextEditor.runtimeconfig.dev.json
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/bin/Debug/net5.0/TextEditor.dll
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/bin/Debug/net5.0/ref/TextEditor.dll
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/bin/Debug/net5.0/TextEditor.pdb
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/TextEditor.csproj.AssemblyReference.cache
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/TextEditor.AssemblyInfoInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/TextEditor.AssemblyInfo.cs
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/TextEditor.csproj.CoreCompileInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/TextEditor.dll
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/ref/TextEditor.dll
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/TextEditor.pdb
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/TextEditor/obj/Debug/net5.0/TextEditor.genruntimeconfig.cache
