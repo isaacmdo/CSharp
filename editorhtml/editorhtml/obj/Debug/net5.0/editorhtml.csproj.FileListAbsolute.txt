@@ -1,0 +1,15 @@
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/bin/Debug/net5.0/editorhtml.deps.json
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/bin/Debug/net5.0/editorhtml.runtimeconfig.json
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/bin/Debug/net5.0/editorhtml.runtimeconfig.dev.json
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/bin/Debug/net5.0/editorhtml.dll
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/bin/Debug/net5.0/ref/editorhtml.dll
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/bin/Debug/net5.0/editorhtml.pdb
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/editorhtml.csproj.AssemblyReference.cache
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/editorhtml.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/editorhtml.AssemblyInfoInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/editorhtml.AssemblyInfo.cs
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/editorhtml.csproj.CoreCompileInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/editorhtml.dll
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/ref/editorhtml.dll
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/editorhtml.pdb
+/Users/isaacmoura/Documents/Github/CSharp/editorhtml/editorhtml/obj/Debug/net5.0/editorhtml.genruntimeconfig.cache
