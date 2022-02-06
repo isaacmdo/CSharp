@@ -1,0 +1,15 @@
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/bin/Debug/net5.0/ExemploConstrutores.deps.json
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/bin/Debug/net5.0/ExemploConstrutores.runtimeconfig.json
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/bin/Debug/net5.0/ExemploConstrutores.runtimeconfig.dev.json
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/bin/Debug/net5.0/ExemploConstrutores.dll
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/bin/Debug/net5.0/ref/ExemploConstrutores.dll
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/bin/Debug/net5.0/ExemploConstrutores.pdb
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ExemploConstrutores.csproj.AssemblyReference.cache
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ExemploConstrutores.AssemblyInfoInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ExemploConstrutores.AssemblyInfo.cs
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ExemploConstrutores.csproj.CoreCompileInputs.cache
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ExemploConstrutores.dll
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ref/ExemploConstrutores.dll
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ExemploConstrutores.pdb
+/Users/isaacmoura/Documents/Github/CSharp/constructors/ExemploConstrutores/obj/Debug/net5.0/ExemploConstrutores.genruntimeconfig.cache
